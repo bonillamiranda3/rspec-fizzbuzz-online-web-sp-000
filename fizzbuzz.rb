@@ -4,4 +4,3 @@ def fizzbuzz(num)
   return "Buzz" if num % 5 == 0
   return nil
 end
-
